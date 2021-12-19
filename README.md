@@ -1,2 +1,2 @@
-# Dmitry_Ivin
+# Yandex projects
 Projects from Yandex.Practicum
